@@ -1,4 +1,4 @@
-```markdown
+
 # 🏦 SQL Automated Loan Eligibility System
 
 ## 🚀 Project Overview
