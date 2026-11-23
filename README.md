@@ -62,7 +62,6 @@ Out of **40** processed loan applications:
 2. **Build the Schema:** Execute `schema.sql` to create the required relational tables.
 3. **Configure Automation:** Run `eligibility-check.sql` to initialize the eligibility logic, stored procedures, and triggers.
 4. **Insert Data:** Add new applicant records manually via SQL or programmatically through `loan-eligibility-check.ipynb`.
-5. **Visualize Results:** Launch `notebooks/loan_eligibility_check.ipynb` to query the database and view visual analytics.
 
 ```
 
